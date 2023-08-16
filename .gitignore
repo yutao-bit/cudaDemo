@@ -1,0 +1,5 @@
+# .gitignore file
+#*.o
+
+# Ignore the build directory
+build/
